@@ -1,3 +1,5 @@
+/home/shi/docker_isaac_gym_forenvironment/workspace/isaac-gym-ur3e/python/examples
+
 v2 is the good example without force sensor on the destination,
 v3 is the bad example with force sensor on the destination, i dont know if the force sensor is applied or not
 
